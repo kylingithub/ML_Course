@@ -57,3 +57,4 @@ def ml_loop():
                 comm.send_instruction(scene_info.frame, PlatformAction.MOVE_LEFT)
             else :
                 comm.send_instruction(scene_info.frame, PlatformAction.NONE)
+        # revise something
