@@ -60,8 +60,8 @@ def ml_loop():
         # revise something
         # revise something again
         # revise something again
-        # revise something again
-        # revise something again
+        # revise something clone
+        # revise something clone
         
         
         
